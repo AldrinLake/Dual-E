@@ -79,4 +79,4 @@ This work has been **accepted by CVPR 2026**. The official BibTeX entry will be 
 
 ## Acknowledgement
 
-This project is mainly based on [PyCIL](https://github.com/LAMDA-CL/PyCIL).This project is mainly based on [PyCIL](https://github.com/LAMDA-CL/PyCIL).
+This project is mainly based on [PyCIL](https://github.com/LAMDA-CL/PyCIL).
