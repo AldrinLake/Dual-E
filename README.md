@@ -17,8 +17,7 @@ In EFCIL, it is common to retain intermediate representations (e.g., class proto
 
 ![1772515390437](images/README/1772515390437.png)
 
-Dual-E relies on analytical updates, is computationally efficient, and can be plugged into existing EFCIL pipelines.
---------------------------------------------------------------------------------------------------------------------
+##### Dual-E relies on analytical updates, is computationally efficient, and can be plugged into existing EFCIL pipelines.Dual-E relies on analytical updates, is computationally efficient, and can be plugged into existing EFCIL pipelines.
 
 ## Repository Structure
 
