@@ -1,4 +1,4 @@
-# Dual-Estimator: Decoupling Global and Local Semantic Shift for Drift Compensation in Class-Incremental LearningDual-E: Dual-Estimator for Exemplar-Free Class-Incremental Learning
+# Dual-Estimator: Decoupling Global and Local Semantic Shift for Drift Compensation in Class-Incremental Learning
 
 [![CVPR 2026](https://img.shields.io/badge/CVPR-2026-blue)](http://cvpr.thecvf.com/)  [![PyTorch](https://img.shields.io/badge/PyTorch-Implementation-orange)](https://pytorch.org/)
 
