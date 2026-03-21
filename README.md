@@ -80,3 +80,25 @@ This work has been **accepted by CVPR 2026**. The official BibTeX entry will be 
 ## Acknowledgement
 
 This project is mainly based on [PyCIL](https://github.com/LAMDA-CL/PyCIL).
+
+---
+
+## CV / Resume
+
+A personal academic CV template for a CS PhD student is hosted in the [`docs/`](docs/) directory and published via **GitHub Pages**.
+
+**Live URL** (after enabling GitHub Pages):
+```
+https://aldrinlake.github.io/Dual-E/
+```
+
+### How to enable GitHub Pages
+1. Go to **Settings → Pages** in this repository.
+2. Under **Source**, select **Deploy from a branch**.
+3. Choose the branch (`main` or your default branch) and set the folder to **`/docs`**.
+4. Click **Save**. Your CV will be live within a minute at the URL above.
+
+### Customise the CV
+Edit [`docs/index.html`](docs/index.html) to fill in your own name, contact info,
+education history, publications, experience, awards, and skills.
+The stylesheet is in [`docs/style.css`](docs/style.css).
