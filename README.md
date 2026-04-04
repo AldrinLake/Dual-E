@@ -1,12 +1,12 @@
 # Dual-Estimator: Decoupling Global and Local Semantic Shift for Drift Compensation in Class-Incremental Learning
 
-> **Notice:** The codebase is currently being reorganized and will be released after the paper is online.
-
 [![CVPR 2026](https://img.shields.io/badge/CVPR-2026-blue)](http://cvpr.thecvf.com/)  [![PyTorch](https://img.shields.io/badge/PyTorch-Implementation-orange)](https://pytorch.org/)
 
 > ##### **Accepted by CVPR 2026**
 >
 > This repository provides the official implementation for Dual-E, a drift compensation method for Exemplar-Free Class-Incremental Learning (EFCIL).
+>
+> The codebase is currently being reorganized and will be released after the paper is online.
 
 ## Overview
 
